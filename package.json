@@ -17,6 +17,6 @@
   },
   "subdomain": "jdb-codefish",
     "scripts": {
-      "start": "node start-js"
+      "start": "node start.js"
   }
 }
