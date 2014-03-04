@@ -15,7 +15,7 @@
     "zombie": "*",
     "ejs": "*"
   },
-  "subdomain": "codefish",
+  "subdomain": "jdb-codefish",
     "scripts": {
       "start": "node start-js"
   }
