@@ -14,5 +14,9 @@
     "express": "3.x",
     "zombie": "*",
     "ejs": "*"
+  },
+  "subdomain": {
+    "scripts": {
+      "start": "node start-js"
   }
 }
